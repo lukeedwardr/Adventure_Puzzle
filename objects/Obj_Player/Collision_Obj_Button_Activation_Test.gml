@@ -1,0 +1,1 @@
+sprite_index = Spr_Active_Test;
