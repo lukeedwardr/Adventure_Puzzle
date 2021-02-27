@@ -9,7 +9,7 @@ function PlayerMovement(){
 	if (up || down || left || right){	
 		// Movement
 		if(up){
-			sprite_index = Spr_Player_Front_Walking;
+			sprite_index = Spr_Player_Back_Walking;
 			Obj_Player.y = Obj_Player.y - 1;
 		}
 		else if(down){
