@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "Spr_Button_Up",
-    "path": "sprites/Spr_Button_Up/Spr_Button_Up.yy",
-  },
+  "spriteId": null,
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
-  "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button",
-    "path": "objects/Obj_Button/Obj_Button.yy",
-  },
+  "persistent": true,
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +17,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":82,"eventType":9,"collisionObjectId":null,"parent":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Test",
+  "name": "Obj_Game",
   "tags": [],
   "resourceType": "GMObject",
 }

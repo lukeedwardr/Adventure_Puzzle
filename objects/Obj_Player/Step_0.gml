@@ -1,1 +1,2 @@
 PlayerMovement();
+ButtonPressSwitch();

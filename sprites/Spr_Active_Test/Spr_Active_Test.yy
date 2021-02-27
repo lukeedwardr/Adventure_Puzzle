@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e1cf359d-4350-49ed-bb84-78d77fe13f13","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Button Test",
+    "path": "folders/Sprites/Button Test.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Active_Test",

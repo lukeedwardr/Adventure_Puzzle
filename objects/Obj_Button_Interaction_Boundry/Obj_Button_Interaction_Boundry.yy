@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Up",
-    "path": "sprites/Spr_Button_Up/Spr_Button_Up.yy",
+    "name": "Spr_Button_Interaction_Boundry",
+    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button",
-    "path": "objects/Obj_Button/Obj_Button.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_Button_Interaction_Boundry","path":"objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Test",
+  "name": "Obj_Button_Interaction_Boundry",
   "tags": [],
   "resourceType": "GMObject",
 }
