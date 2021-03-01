@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Inactive_Test",
-    "path": "sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",
+    "name": "Spr_SignPost",
+    "path": "sprites/Spr_SignPost/Spr_SignPost.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Test",
-    "path": "folders/Objects/Button Test.yy",
+    "name": "SignPost Test",
+    "path": "folders/Objects/SignPost Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Activation_Test",
+  "name": "Obj_SignPost",
   "tags": [],
   "resourceType": "GMObject",
 }
