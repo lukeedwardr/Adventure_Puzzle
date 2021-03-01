@@ -9,6 +9,8 @@
     {"id":{"name":"Spr_Player_Back_Walking","path":"sprites/Spr_Player_Back_Walking/Spr_Player_Back_Walking.yy",},"order":7,},
     {"id":{"name":"Spr_Player_Front_Idle","path":"sprites/Spr_Player_Front_Idle/Spr_Player_Front_Idle.yy",},"order":0,},
     {"id":{"name":"Spr_Button_Interaction_Boundry","path":"sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",},"order":3,},
+    {"id":{"name":"Obj_SignPost_Boundry","path":"objects/Obj_SignPost_Boundry/Obj_SignPost_Boundry.yy",},"order":1,},
+    {"id":{"name":"ReadSignPost","path":"scripts/ReadSignPost/ReadSignPost.yy",},"order":2,},
     {"id":{"name":"Obj_Button_Test","path":"objects/Obj_Button_Test/Obj_Button_Test.yy",},"order":3,},
     {"id":{"name":"Spr_Button_Down","path":"sprites/Spr_Button_Down/Spr_Button_Down.yy",},"order":4,},
     {"id":{"name":"Spr_Player_LeftSide_Walking","path":"sprites/Spr_Player_LeftSide_Walking/Spr_Player_LeftSide_Walking.yy",},"order":3,},
