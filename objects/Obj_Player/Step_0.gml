@@ -1,2 +1,3 @@
 PlayerMovement();
 ButtonPressSwitch();
+ReadSignPost();
