@@ -9,6 +9,7 @@
     {"id":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"order":2,},
     {"id":{"name":"Spr_RailTrack_Corner","path":"sprites/Spr_RailTrack_Corner/Spr_RailTrack_Corner.yy",},"order":0,},
     {"id":{"name":"Spr_Player_Back_Walking","path":"sprites/Spr_Player_Back_Walking/Spr_Player_Back_Walking.yy",},"order":7,},
+    {"id":{"name":"Spr_Well","path":"sprites/Spr_Well/Spr_Well.yy",},"order":11,},
     {"id":{"name":"Spr_Player_Front_Idle","path":"sprites/Spr_Player_Front_Idle/Spr_Player_Front_Idle.yy",},"order":0,},
     {"id":{"name":"Spr_Button_Interaction_Boundry","path":"sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",},"order":3,},
     {"id":{"name":"Obj_SignPost_Boundry","path":"objects/Obj_SignPost_Boundry/Obj_SignPost_Boundry.yy",},"order":1,},
