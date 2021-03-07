@@ -147,6 +147,7 @@
         {"instances":[
             {"properties":[],"isDnd":false,"objectId":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":20.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":720.0,"y":702.0,"resourceVersion":"1.0","name":"inst_4984A44D","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":false,"objectId":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":19.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1062.0,"y":360.0,"resourceVersion":"1.0","name":"inst_2E23EC8D","tags":[],"resourceType":"GMRInstance",},
+            {"properties":[],"isDnd":false,"objectId":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":927.0,"y":612.0,"resourceVersion":"1.0","name":"inst_491BEFA4","tags":[],"resourceType":"GMRInstance",},
           ],"visible":true,"depth":1900,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":18,"gridY":18,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_C2","tags":[],"resourceType":"GMRInstanceLayer",},
       ],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"C2","tags":[],"resourceType":"GMRLayer",},
     {"spriteId":null,"colour":4286562303,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":2000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":18,"gridY":18,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
@@ -175,6 +176,7 @@
     {"name":"inst_43126724","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4A2FF783","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6F9A011E","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_491BEFA4","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
