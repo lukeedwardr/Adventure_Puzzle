@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4b68d37b-86fc-4fc7-b008-6c298f08c728","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Rail Track",
+    "path": "folders/Sprites/Rail Track.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_RailTrack_Corner",

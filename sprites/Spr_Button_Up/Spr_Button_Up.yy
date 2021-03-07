@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Button Test",
-    "path": "folders/Sprites/Button Test.yy",
+    "path": "folders/Sprites/Interactable/Button Test.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Button_Up",

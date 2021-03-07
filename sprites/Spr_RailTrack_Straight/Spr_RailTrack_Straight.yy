@@ -147,8 +147,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"13eff58c-70ce-4f52-a355-256f3813a00a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Rail Track",
+    "path": "folders/Sprites/Rail Track.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_RailTrack_Straight",

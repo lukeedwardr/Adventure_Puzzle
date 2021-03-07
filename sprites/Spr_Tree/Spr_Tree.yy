@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8ea03aa8-e484-4b39-b8f0-a19fc519afff","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Tree",
+    "path": "folders/Sprites/Tree.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Tree",

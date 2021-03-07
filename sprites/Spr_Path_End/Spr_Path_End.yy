@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1d6c90b7-d5e0-4fad-bbc3-40b47c0df5bd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Path",
+    "path": "folders/Sprites/Path.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Path_End",
