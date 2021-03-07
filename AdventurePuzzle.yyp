@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Button_Activation_Test","path":"objects/Obj_Button_Activation_Test/Obj_Button_Activation_Test.yy",},"order":1,},
+    {"id":{"name":"Spr_Path_Corner","path":"sprites/Spr_Path_Corner/Spr_Path_Corner.yy",},"order":12,},
     {"id":{"name":"Spr_Player_Back_Idle","path":"sprites/Spr_Player_Back_Idle/Spr_Player_Back_Idle.yy",},"order":6,},
     {"id":{"name":"Spr_Tree","path":"sprites/Spr_Tree/Spr_Tree.yy",},"order":1,},
     {"id":{"name":"Obj_Button_Interaction_Boundry","path":"objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",},"order":2,},
@@ -23,6 +24,7 @@
     {"id":{"name":"Spr_Player_Front_Walking","path":"sprites/Spr_Player_Front_Walking/Spr_Player_Front_Walking.yy",},"order":1,},
     {"id":{"name":"ButtonPressSwitch","path":"scripts/ButtonPressSwitch/ButtonPressSwitch.yy",},"order":1,},
     {"id":{"name":"Spr_Player_RightSide_Walking","path":"sprites/Spr_Player_RightSide_Walking/Spr_Player_RightSide_Walking.yy",},"order":5,},
+    {"id":{"name":"Spr_Path_End","path":"sprites/Spr_Path_End/Spr_Path_End.yy",},"order":11,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
     {"id":{"name":"PlayerMovement","path":"scripts/PlayerMovement/PlayerMovement.yy",},"order":0,},
     {"id":{"name":"Spr_SignPost","path":"sprites/Spr_SignPost/Spr_SignPost.yy",},"order":7,},
@@ -31,6 +33,7 @@
     {"id":{"name":"Obj_Button","path":"objects/Obj_Button/Obj_Button.yy",},"order":0,},
     {"id":{"name":"Obj_SignPost","path":"objects/Obj_SignPost/Obj_SignPost.yy",},"order":0,},
     {"id":{"name":"Spr_Player_LeftSide_Idle","path":"sprites/Spr_Player_LeftSide_Idle/Spr_Player_LeftSide_Idle.yy",},"order":2,},
+    {"id":{"name":"Spr_Path_Straight","path":"sprites/Spr_Path_Straight/Spr_Path_Straight.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
