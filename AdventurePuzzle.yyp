@@ -27,7 +27,7 @@
     {"id":{"name":"Spr_Path_End","path":"sprites/Spr_Path_End/Spr_Path_End.yy",},"order":1,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
     {"id":{"name":"PlayerMovement","path":"scripts/PlayerMovement/PlayerMovement.yy",},"order":0,},
-    {"id":{"name":"Spr_SignPost","path":"sprites/Spr_SignPost/Spr_SignPost.yy",},"order":4,},
+    {"id":{"name":"Spr_SignPost","path":"sprites/Spr_SignPost/Spr_SignPost.yy",},"order":1,},
     {"id":{"name":"Spr_Active_Test","path":"sprites/Spr_Active_Test/Spr_Active_Test.yy",},"order":0,},
     {"id":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"order":1,},
     {"id":{"name":"Obj_Button","path":"objects/Obj_Button/Obj_Button.yy",},"order":0,},
