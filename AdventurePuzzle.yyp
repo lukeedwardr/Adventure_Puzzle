@@ -15,6 +15,7 @@
     {"id":{"name":"Spr_Button_Down","path":"sprites/Spr_Button_Down/Spr_Button_Down.yy",},"order":4,},
     {"id":{"name":"Spr_Player_LeftSide_Walking","path":"sprites/Spr_Player_LeftSide_Walking/Spr_Player_LeftSide_Walking.yy",},"order":3,},
     {"id":{"name":"Spr_Player_RightSide_Idle","path":"sprites/Spr_Player_RightSide_Idle/Spr_Player_RightSide_Idle.yy",},"order":4,},
+    {"id":{"name":"CameraPositionChange","path":"scripts/CameraPositionChange/CameraPositionChange.yy",},"order":3,},
     {"id":{"name":"Spr_CollisionBlock","path":"sprites/Spr_CollisionBlock/Spr_CollisionBlock.yy",},"order":0,},
     {"id":{"name":"Spr_Button_Up","path":"sprites/Spr_Button_Up/Spr_Button_Up.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Front_Walking","path":"sprites/Spr_Player_Front_Walking/Spr_Player_Front_Walking.yy",},"order":1,},
