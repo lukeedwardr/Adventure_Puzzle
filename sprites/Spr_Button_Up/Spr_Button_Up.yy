@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 4,
@@ -9,7 +9,7 @@
   "swfPrecision": 2.525,
   "bbox_left": 5,
   "bbox_right": 12,
-  "bbox_top": 2,
+  "bbox_top": 7,
   "bbox_bottom": 16,
   "HTile": false,
   "VTile": false,
@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9ca8a004-4036-4110-b923-adc45e550853","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Button Test",
-    "path": "folders/Sprites/Interactable/Button Test.yy",
+    "name": "Switch Button",
+    "path": "folders/Sprites/Interactable/Switch Button.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Button_Up",

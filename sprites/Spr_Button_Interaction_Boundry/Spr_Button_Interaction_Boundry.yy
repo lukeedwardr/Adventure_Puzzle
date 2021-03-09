@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"869c8044-62b8-4d51-ab1e-0ca0289bfbc1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Button Test",
-    "path": "folders/Sprites/Interactable/Button Test.yy",
+    "name": "Switch Button",
+    "path": "folders/Sprites/Interactable/Switch Button.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Button_Interaction_Boundry",

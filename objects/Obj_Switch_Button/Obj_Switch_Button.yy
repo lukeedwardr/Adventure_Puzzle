@@ -31,7 +31,7 @@
     "path": "folders/Objects/Button Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Test",
+  "name": "Obj_Switch_Button",
   "tags": [],
   "resourceType": "GMObject",
 }

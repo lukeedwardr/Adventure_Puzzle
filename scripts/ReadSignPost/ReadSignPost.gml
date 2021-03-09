@@ -10,7 +10,7 @@ function ReadSignPost(){
 	if (instance_exists(Obj_SignPost_Boundry)){
 		// IF the player is in collision with the signpost object AND 'E' is pressed AND text box is inactive
 		// THEN something will happen
-		if (place_meeting(x, y, Obj_SignPost_Boundry) && actionButton && textBoxActive==false){
+		if (place_meeting(x, y, Obj_SignPost_Boundry) && actionButton && textBoxActive == false){
 			textBoxActive = true;
 		}
 		// IF the player is in collision with the signpost object AND 'E' is pressed
