@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "Spr_RailCart",
-    "path": "sprites/Spr_RailCart/Spr_RailCart.yy",
+    "name": "Spr_Button_Up",
+    "path": "sprites/Spr_Button_Up/Spr_Button_Up.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Button",
+    "path": "objects/Obj_Button/Obj_Button.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Button Test",
+    "path": "folders/Objects/Button Test.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_RailCart",
+  "name": "Obj_Switch_Button",
   "tags": [],
   "resourceType": "GMObject",
 }
