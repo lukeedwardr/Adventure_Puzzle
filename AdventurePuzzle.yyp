@@ -28,6 +28,7 @@
     {"id":{"name":"Spr_Player_RightSide_Walking","path":"sprites/Spr_Player_RightSide_Walking/Spr_Player_RightSide_Walking.yy",},"order":5,},
     {"id":{"name":"Spr_Path_End","path":"sprites/Spr_Path_End/Spr_Path_End.yy",},"order":1,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
+    {"id":{"name":"Path_RailCart_ReverseTest","path":"paths/Path_RailCart_ReverseTest/Path_RailCart_ReverseTest.yy",},"order":1,},
     {"id":{"name":"PlayerMovement","path":"scripts/PlayerMovement/PlayerMovement.yy",},"order":0,},
     {"id":{"name":"Spr_SignPost","path":"sprites/Spr_SignPost/Spr_SignPost.yy",},"order":1,},
     {"id":{"name":"Path_RailCart","path":"paths/Path_RailCart/Path_RailCart.yy",},"order":0,},
