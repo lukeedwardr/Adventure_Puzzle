@@ -1,4 +1,3 @@
-/*	This function will act as a switch.
 /*	
 	This function will act as a switch.
 	It will allow a button to be pressed to activate the rail cart.
