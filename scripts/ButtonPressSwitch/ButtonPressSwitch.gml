@@ -25,8 +25,9 @@ function ButtonPressSwitch(){
 		}
 		// IF the rail cart is a pixel before its end point in C2
 		// THEN the B1 button will revert to its starting sprite, indicating the button is inactive
-		if(Obj_RailCart.y = 612 && (Obj_RailCart.yprevious >= 611 && Obj_RailCart.yprevious < 612)){
-			Obj_Switch_Button_B1.sprite_index = Spr_Button_Up;
-		}
+		//if(Obj_RailCart.y = 612 && (Obj_RailCart.yprevious >= 611 && Obj_RailCart.yprevious < 612)){
+		//if(Obj_RailCart.y = 612 && Obj_RailCart.yprevious = 611.995361328125){
+		//	Obj_Switch_Button_B1.sprite_index = Spr_Button_Up;
+		//}		
 	}
 }
