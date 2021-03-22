@@ -4,7 +4,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_CollisionBlock",
+    "path": "objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Test",
-    "path": "folders/Objects/Button Test.yy",
+    "name": "Button",
+    "path": "folders/Objects/Button.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Button",

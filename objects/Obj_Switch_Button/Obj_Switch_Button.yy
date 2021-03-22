@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_CollisionBlock",
-    "path": "objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",
+    "name": "Obj_Button",
+    "path": "objects/Obj_Button/Obj_Button.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button Test",
-    "path": "folders/Objects/Button Test.yy",
+    "name": "Button",
+    "path": "folders/Objects/Button.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Switch_Button",
