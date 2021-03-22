@@ -3,7 +3,7 @@
 	It will allow a button to be pressed to activate the rail cart.
 	This requires the objects, Obj_Button_Interaction_Boundry (partent), Obj_Switch_Button (parent) and Obj_RailCart
 */ 
-function ButtonPressSwitch(){
+function RailCartActivation(){
 	// E is pressed
 	actionButton = keyboard_check_pressed(ord("E"));
 	if (instance_exists(Obj_Button_Interaction_Boundry)){

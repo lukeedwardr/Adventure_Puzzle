@@ -26,7 +26,7 @@
     {"id":{"name":"Spr_CollisionBlock","path":"sprites/Spr_CollisionBlock/Spr_CollisionBlock.yy",},"order":0,},
     {"id":{"name":"Spr_Button_Up","path":"sprites/Spr_Button_Up/Spr_Button_Up.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Front_Walking","path":"sprites/Spr_Player_Front_Walking/Spr_Player_Front_Walking.yy",},"order":1,},
-    {"id":{"name":"ButtonPressSwitch","path":"scripts/ButtonPressSwitch/ButtonPressSwitch.yy",},"order":1,},
+    {"id":{"name":"RailCartActivation","path":"scripts/RailCartActivation/RailCartActivation.yy",},"order":1,},
     {"id":{"name":"Spr_Player_RightSide_Walking","path":"sprites/Spr_Player_RightSide_Walking/Spr_Player_RightSide_Walking.yy",},"order":5,},
     {"id":{"name":"Spr_Path_End","path":"sprites/Spr_Path_End/Spr_Path_End.yy",},"order":1,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
