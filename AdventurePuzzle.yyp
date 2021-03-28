@@ -2,7 +2,7 @@
   "resources": [
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Button_Activation_Test","path":"objects/Obj_Button_Activation_Test/Obj_Button_Activation_Test.yy",},"order":1,},
-    {"id":{"name":"Spr_Wire_Corner","path":"sprites/Spr_Wire_Corner/Spr_Wire_Corner.yy",},"order":8,},
+    {"id":{"name":"Spr_Wire_Corner","path":"sprites/Spr_Wire_Corner/Spr_Wire_Corner.yy",},"order":0,},
     {"id":{"name":"Spr_Path_Corner","path":"sprites/Spr_Path_Corner/Spr_Path_Corner.yy",},"order":0,},
     {"id":{"name":"Obj_Switch_Button_A1","path":"objects/Obj_Switch_Button_A1/Obj_Switch_Button_A1.yy",},"order":9,},
     {"id":{"name":"Obj_Button_Interaction_Boundry_A1","path":"objects/Obj_Button_Interaction_Boundry_A1/Obj_Button_Interaction_Boundry_A1.yy",},"order":8,},
@@ -18,7 +18,7 @@
     {"id":{"name":"Spr_Well","path":"sprites/Spr_Well/Spr_Well.yy",},"order":6,},
     {"id":{"name":"Spr_Player_Front_Idle","path":"sprites/Spr_Player_Front_Idle/Spr_Player_Front_Idle.yy",},"order":0,},
     {"id":{"name":"Spr_Button_Interaction_Boundry","path":"sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",},"order":3,},
-    {"id":{"name":"Spr_Wire_Straight","path":"sprites/Spr_Wire_Straight/Spr_Wire_Straight.yy",},"order":7,},
+    {"id":{"name":"Spr_Wire_Straight","path":"sprites/Spr_Wire_Straight/Spr_Wire_Straight.yy",},"order":1,},
     {"id":{"name":"Obj_SignPost_Boundry","path":"objects/Obj_SignPost_Boundry/Obj_SignPost_Boundry.yy",},"order":1,},
     {"id":{"name":"ReadSignPost","path":"scripts/ReadSignPost/ReadSignPost.yy",},"order":2,},
     {"id":{"name":"ButtonSpriteReset","path":"scripts/ButtonSpriteReset/ButtonSpriteReset.yy",},"order":5,},

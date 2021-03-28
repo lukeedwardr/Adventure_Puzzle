@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"011a5f0d-1ab2-4d9c-a64b-b8d8f0875dbd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Wire",
+    "path": "folders/Sprites/Wire.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Wire_Straight",
