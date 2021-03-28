@@ -2,6 +2,7 @@
 	This function will act as a switch.
 	It will allow a button to be pressed to activate the rail cart.
 	This requires the objects, Obj_Button_Interaction_Boundry (partent), Obj_Switch_Button (parent) and Obj_RailCart
+	Called every step on Obj_Player. Requires the battery to be active > set on BatteryActivation()
 	actionButton = e, is created on Obj_Game
 */ 
 function RailCartActivation(){

@@ -1,5 +1,6 @@
 /*	
 	This function will activate the ability to move the rail cart.
+	Called every step on Obj_Player
 	actionButton = e, is created on Obj_Game
 */ 
 function BatteryActivation(){
