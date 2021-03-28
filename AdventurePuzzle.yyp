@@ -11,6 +11,7 @@
     {"id":{"name":"Spr_Tree","path":"sprites/Spr_Tree/Spr_Tree.yy",},"order":0,},
     {"id":{"name":"Obj_Switch_Button_B1","path":"objects/Obj_Switch_Button_B1/Obj_Switch_Button_B1.yy",},"order":4,},
     {"id":{"name":"Obj_Button_Interaction_Boundry","path":"objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",},"order":2,},
+    {"id":{"name":"Spr_Rock_Geometric_Bottom","path":"sprites/Spr_Rock_Geometric_Bottom/Spr_Rock_Geometric_Bottom.yy",},"order":0,},
     {"id":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"order":2,},
     {"id":{"name":"Spr_RailTrack_Corner","path":"sprites/Spr_RailTrack_Corner/Spr_RailTrack_Corner.yy",},"order":0,},
     {"id":{"name":"Spr_Player_Back_Walking","path":"sprites/Spr_Player_Back_Walking/Spr_Player_Back_Walking.yy",},"order":7,},
@@ -51,6 +52,7 @@
     {"id":{"name":"Obj_Button","path":"objects/Obj_Button/Obj_Button.yy",},"order":0,},
     {"id":{"name":"Obj_SignPost","path":"objects/Obj_SignPost/Obj_SignPost.yy",},"order":0,},
     {"id":{"name":"Spr_Water","path":"sprites/Spr_Water/Spr_Water.yy",},"order":9,},
+    {"id":{"name":"Spr_Rock_Geometric_Top","path":"sprites/Spr_Rock_Geometric_Top/Spr_Rock_Geometric_Top.yy",},"order":1,},
     {"id":{"name":"Obj_Switch_Button_A2","path":"objects/Obj_Switch_Button_A2/Obj_Switch_Button_A2.yy",},"order":10,},
     {"id":{"name":"Spr_Player_LeftSide_Idle","path":"sprites/Spr_Player_LeftSide_Idle/Spr_Player_LeftSide_Idle.yy",},"order":2,},
     {"id":{"name":"Spr_Path_Straight","path":"sprites/Spr_Path_Straight/Spr_Path_Straight.yy",},"order":2,},
@@ -96,6 +98,7 @@
     {"folderPath":"folders/Sprites/Tree.yy","order":4,"resourceVersion":"1.0","name":"Tree","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Interactable.yy","order":5,"resourceVersion":"1.0","name":"Interactable","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Not Using.yy","order":15,"resourceVersion":"1.0","name":"Not Using","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Rocks.yy","order":12,"resourceVersion":"1.0","name":"Rocks","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
