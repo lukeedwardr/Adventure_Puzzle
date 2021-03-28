@@ -1,6 +1,22 @@
-PlayerMovement();
+// Movement will be blocked at certain moments
+// Inputting values at Dam console
+if(playerCanMove){
+	PlayerMovement();
+}
+
 ReadSignPost();
-DamActivation();
+
+if(firstValue != 1 && secondValue != 1){
+	DamActivation();
+}
+
+// Will show text box will number values
+// Numbers are entered, if correct values entered
+// Then Dam will be active
+if(damConsoleActive){
+	DamConsoleInput();
+}
+
 // The dam needs to be active in order for the battery to be activated.
 if(Obj_Switch_Button_A2.damIsActive && !Obj_Switch_Button_A1.batteryIsActive){
 	BatteryActivation();

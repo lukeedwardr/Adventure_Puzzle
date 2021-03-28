@@ -19,7 +19,6 @@ function ReadSignPost(){
 			textBoxActive = false;
 		}
 	}
-
 }
 
 // Something to think about if there are multiple readable objects in the room.
