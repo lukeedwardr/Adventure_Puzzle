@@ -29,7 +29,7 @@
     {"id":{"name":"Spr_Player_RightSide_Idle","path":"sprites/Spr_Player_RightSide_Idle/Spr_Player_RightSide_Idle.yy",},"order":4,},
     {"id":{"name":"CameraPositionChange","path":"scripts/CameraPositionChange/CameraPositionChange.yy",},"order":3,},
     {"id":{"name":"Spr_RailCart","path":"sprites/Spr_RailCart/Spr_RailCart.yy",},"order":2,},
-    {"id":{"name":"Spr_CollisionBlock","path":"sprites/Spr_CollisionBlock/Spr_CollisionBlock.yy",},"order":0,},
+    {"id":{"name":"Spr_CollisionBlock","path":"sprites/Spr_CollisionBlock/Spr_CollisionBlock.yy",},"order":2,},
     {"id":{"name":"Spr_Button_Up","path":"sprites/Spr_Button_Up/Spr_Button_Up.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Front_Walking","path":"sprites/Spr_Player_Front_Walking/Spr_Player_Front_Walking.yy",},"order":1,},
     {"id":{"name":"DamActivation","path":"scripts/DamActivation/DamActivation.yy",},"order":7,},
@@ -99,6 +99,7 @@
     {"folderPath":"folders/Sprites/Interactable.yy","order":5,"resourceVersion":"1.0","name":"Interactable","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Not Using.yy","order":15,"resourceVersion":"1.0","name":"Not Using","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Rocks.yy","order":12,"resourceVersion":"1.0","name":"Rocks","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Wire.yy","order":13,"resourceVersion":"1.0","name":"Wire","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
