@@ -10,15 +10,9 @@ function DamActivation(){
 		if (place_meeting(x, y, Obj_Button_Interaction_Boundry_A2) && actionButton){
 			damConsoleActive = true;
 		}
-		//else if ((place_meeting(x, y, Obj_Button_Interaction_Boundry_A2) && actionButton && damConsoleActive) || !place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)){}
+		//else if ((place_meeting(x, y, Obj_Button_Interaction_Boundry_A2) && actionButton && damConsoleActive) || !place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)){
 		else if (!place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)) {
-			damConsoleActive = false;
-			// If the incorrect values are entered
-			// Then the values will reset
-			if(firstValue != 1 && secondValue != 1){
-				firstValue = 0;
-				secondValue = 0;
-			}
+			DamConsoleInputResetValues();
 		}
 	}
 }

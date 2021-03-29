@@ -4,7 +4,7 @@ function PlayerMovement(){
 	down = keyboard_check(ord("S"));
 	left = keyboard_check(ord("A"));
 	right = keyboard_check(ord("D"));
-	movementSpeed = 3;
+	movementSpeed = 2;
 	
 	// Walking animation plays when player moves
 	if (up || down || left || right){	

@@ -5,15 +5,15 @@
 */
 function DamConsoleInput(){
 	playerCanMove = false;
-	one = keyboard_check(ord("1"));
-	two = keyboard_check(ord("2"));
-	three = keyboard_check(ord("3"));
-	four = keyboard_check(ord("4"));
-	five = keyboard_check(ord("5"));
-	six = keyboard_check(ord("6"));
-	seven = keyboard_check(ord("7"));
-	eight = keyboard_check(ord("8"));
-	nine = keyboard_check(ord("9"));
+	one = keyboard_check_pressed(ord("1"));
+	two = keyboard_check_pressed(ord("2"));
+	three = keyboard_check_pressed(ord("3"));
+	four = keyboard_check_pressed(ord("4"));
+	five = keyboard_check_pressed(ord("5"));
+	six = keyboard_check_pressed(ord("6"));
+	seven = keyboard_check_pressed(ord("7"));
+	eight = keyboard_check_pressed(ord("8"));
+	nine = keyboard_check_pressed(ord("9"));
 	// Entering console values
 	if(firstValue = 0){
 		if(one){firstValue = 1;}
@@ -26,10 +26,10 @@ function DamConsoleInput(){
 		else if(eight){firstValue = 8;}
 		else if(nine){firstValue = 9;}
 		// Clears keyboard state so value is not used in Second value
-		// Causes issues with player movement. If first value is not entered then player movement takes one input per press (Non continuious movement).
 		io_clear();
 	}
-	else if(firstValue != 0){
+	// If the second value has been entered then another input will not be taken
+	else if(firstValue != 0 && secondValue = 0){
 		if(one){secondValue = 1;}
 		else if(two){secondValue = 2;}
 		else if(three){secondValue = 3;}
