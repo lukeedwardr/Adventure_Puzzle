@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Battery",
+    "path": "folders/Scripts/Battery.yy",
   },
   "resourceVersion": "1.0",
   "name": "BatteryActivation",
