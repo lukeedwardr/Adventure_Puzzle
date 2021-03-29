@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "AdventurePuzzle",
-    "path": "AdventurePuzzle.yyp",
+    "name": "General",
+    "path": "folders/Scripts/General.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerSetIdleSprite",

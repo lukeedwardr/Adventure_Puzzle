@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Dam",
+    "path": "folders/Scripts/Dam.yy",
   },
   "resourceVersion": "1.0",
   "name": "DamConsoleInput",
