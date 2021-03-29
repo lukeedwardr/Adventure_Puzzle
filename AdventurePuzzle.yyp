@@ -47,6 +47,7 @@
     {"id":{"name":"Spr_SignPost","path":"sprites/Spr_SignPost/Spr_SignPost.yy",},"order":1,},
     {"id":{"name":"Path_RailCart","path":"paths/Path_RailCart/Path_RailCart.yy",},"order":0,},
     {"id":{"name":"Obj_Button_Interaction_Boundry_C2","path":"objects/Obj_Button_Interaction_Boundry_C2/Obj_Button_Interaction_Boundry_C2.yy",},"order":6,},
+    {"id":{"name":"PlayerSetIdleSprite","path":"scripts/PlayerSetIdleSprite/PlayerSetIdleSprite.yy",},"order":16,},
     {"id":{"name":"Spr_Active_Test","path":"sprites/Spr_Active_Test/Spr_Active_Test.yy",},"order":0,},
     {"id":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"order":1,},
     {"id":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"order":6,},

@@ -8,10 +8,12 @@ function DamActivation(){
 	if (instance_exists(Obj_Button_Interaction_Boundry)){
 		// Dam is activated, battery can now be activated.
 		if (place_meeting(x, y, Obj_Button_Interaction_Boundry_A2) && actionButton){
+			// Ensures player object does not continue walking sprite while inputing values into console.
+			PlayerSetIdleSprite();
 			damConsoleActive = true;
 		}
-		//else if ((place_meeting(x, y, Obj_Button_Interaction_Boundry_A2) && actionButton && damConsoleActive) || !place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)){
-		else if (!place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)) {
+		else if (!place_meeting(x, y, Obj_Button_Interaction_Boundry_A2)){
+			// Set values back to 0
 			DamConsoleInputResetValues();
 		}
 	}

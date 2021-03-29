@@ -4,8 +4,7 @@ function PlayerMovement(){
 	down = keyboard_check(ord("S"));
 	left = keyboard_check(ord("A"));
 	right = keyboard_check(ord("D"));
-	movementSpeed = 2;
-	
+	movementSpeed = 1.2;
 	// Walking animation plays when player moves
 	if (up || down || left || right){	
 		// Movement
@@ -31,21 +30,8 @@ function PlayerMovement(){
 			Obj_Player.x = Obj_Player.x + movementSpeed;
 		}
 	}
-	// Idle sprite when not moving
-	// Depends on last sprite used when moving
+	// Set idle sprite
 	else {
-		if(previous_sprite_index == Spr_Player_Back_Walking){
-			sprite_index = Spr_Player_Back_Idle;
-		}
-		else if(previous_sprite_index == Spr_Player_Front_Walking){
-			sprite_index = Spr_Player_Front_Idle;
-		}
-		else if(previous_sprite_index == Spr_Player_LeftSide_Walking){
-			sprite_index = Spr_Player_LeftSide_Idle;
-		}
-		else if(previous_sprite_index == Spr_Player_RightSide_Walking){
-			sprite_index = Spr_Player_RightSide_Idle;
-		}
-		else{sprite_index = Spr_Player_Front_Idle;}
+		PlayerSetIdleSprite();
 	}
 }
