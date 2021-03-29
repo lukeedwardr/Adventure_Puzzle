@@ -6,7 +6,8 @@ if(playerCanMove){
 
 ReadSignPost();
 
-if(firstValue != 1 && secondValue != 1){
+// When correct values are entered Dam will be active and function call will stop
+if(firstValue != correctFirstValue && secondValue != correctSecondValue){
 	DamActivation();
 }
 

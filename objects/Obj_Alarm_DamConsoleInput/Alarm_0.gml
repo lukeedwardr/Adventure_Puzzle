@@ -1,6 +1,6 @@
 // If the correct values have been entered
 // Then Dam is active
-if(Obj_Player.firstValue = 1 && Obj_Player.secondValue = 1){
+if(Obj_Player.firstValue = Obj_Player.correctFirstValue && Obj_Player.secondValue = Obj_Player.correctSecondValue){
 	Obj_Switch_Button_A2.sprite_index = Spr_Button_Down;
 	Obj_Switch_Button_A2.damIsActive = true;
 }

@@ -15,3 +15,6 @@ damConsoleActive = false;
 // Used in DamConsoleInput() function
 firstValue = 0;
 secondValue = 0;
+// Correct values that will activation Dam
+correctFirstValue = 1;
+correctSecondValue = 1;
