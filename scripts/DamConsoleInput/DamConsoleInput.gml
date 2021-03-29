@@ -26,7 +26,7 @@ function DamConsoleInput(){
 		else if(eight){firstValue = 8;}
 		else if(nine){firstValue = 9;}
 		// Clears keyboard state so value is not used in Second value
-		io_clear();
+		//io_clear();
 	}
 	// If the second value has been entered then another input will not be taken
 	else if(firstValue != 0 && secondValue = 0){
@@ -45,6 +45,6 @@ function DamConsoleInput(){
 		// This will allow the battery to be used.
 		// After values are entered then the console view will disapear.
 		instance_create_layer(0,0, "Instances_Alarm", Obj_Alarm_DamConsoleInput);
-		playerCanMove = true;
+		//playerCanMove = true;
 	}
 }
