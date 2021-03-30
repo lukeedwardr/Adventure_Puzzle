@@ -7,7 +7,7 @@ function PlayerMovement(){
 	movementSpeed = 1.2;
 	// Walking animation plays when player moves
 	if (up || down || left || right){	
-		// Movement
+		// Up and Down Movement
 		if(up && !down){
 			sprite_index = Spr_Player_Back_Walking;
 			previous_sprite_index = Spr_Player_Back_Walking;
@@ -18,7 +18,7 @@ function PlayerMovement(){
 			previous_sprite_index = Spr_Player_Front_Walking;
 			Obj_Player.y = Obj_Player.y + movementSpeed;
 		}
-	
+		// Left and Right Movement
 		if(left && !right){
 			sprite_index = Spr_Player_LeftSide_Walking;
 			previous_sprite_index = Spr_Player_LeftSide_Walking;
