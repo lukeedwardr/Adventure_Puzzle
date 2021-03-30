@@ -7,10 +7,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button_Interaction_Boundry",
-    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rail Cart C2",
-    "path": "folders/Objects/Rail Cart & Track/Rail Cart C2.yy",
+    "name": "Rail Cart & Track",
+    "path": "folders/Objects/Rail Cart & Track.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_C2",
+  "name": "Obj_RailCart_Track_Switch_Interaction_Boundry",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "House Note",
-    "path": "folders/Objects/Button/House Note.yy",
+    "path": "folders/Objects/House Note.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Note_Interaction_Boundry_C1",

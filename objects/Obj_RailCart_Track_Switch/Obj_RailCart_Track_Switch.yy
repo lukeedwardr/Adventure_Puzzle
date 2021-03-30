@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Interaction_Boundry",
-    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+    "name": "Spr_RailTrack_Switch",
+    "path": "sprites/Spr_RailTrack_Switch/Spr_RailTrack_Switch.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button_Interaction_Boundry",
-    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_RailCart_Track_Switch","path":"objects/Obj_RailCart_Track_Switch/Obj_RailCart_Track_Switch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rail Cart C2",
-    "path": "folders/Objects/Rail Cart & Track/Rail Cart C2.yy",
+    "name": "Rail Cart & Track",
+    "path": "folders/Objects/Rail Cart & Track.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_C2",
+  "name": "Obj_RailCart_Track_Switch",
   "tags": [],
   "resourceType": "GMObject",
 }

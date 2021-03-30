@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rail Cart C2",
-    "path": "folders/Objects/Rail Cart & Track/Rail Cart C2.yy",
+    "name": "Rail Cart A1",
+    "path": "folders/Objects/Rail Cart & Track/Rail Cart A1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_C2",
+  "name": "Obj_RailCart_Button_Interaction_Boundry_A1",
   "tags": [],
   "resourceType": "GMObject",
 }

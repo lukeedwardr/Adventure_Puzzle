@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Rail Cart & Track",
+    "path": "folders/Objects/Rail Cart & Track.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_RailCart",

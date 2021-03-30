@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Sign Post",
-    "path": "folders/Objects/Button/Sign Post.yy",
+    "path": "folders/Objects/Sign Post.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_SignPost",

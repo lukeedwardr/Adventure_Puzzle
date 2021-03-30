@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Interaction_Boundry",
-    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+    "name": "Spr_Button_Up",
+    "path": "sprites/Spr_Button_Up/Spr_Button_Up.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_Button_Interaction_Boundry",
-    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
+    "name": "Obj_Switch_Button",
+    "path": "objects/Obj_Switch_Button/Obj_Switch_Button.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Rail Cart C2",
-    "path": "folders/Objects/Rail Cart & Track/Rail Cart C2.yy",
+    "name": "Rail Cart A1",
+    "path": "folders/Objects/Rail Cart & Track/Rail Cart A1.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_C2",
+  "name": "Obj_RailCart_Button_A1",
   "tags": [],
   "resourceType": "GMObject",
 }

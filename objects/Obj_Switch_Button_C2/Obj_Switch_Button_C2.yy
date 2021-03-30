@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Rail Cart C2",
-    "path": "folders/Objects/Button/Rail Cart C2.yy",
+    "path": "folders/Objects/Rail Cart & Track/Rail Cart C2.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Switch_Button_C2",

@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Dam",
-    "path": "folders/Objects/Button/Dam.yy",
+    "path": "folders/Objects/Dam.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Switch_Button_A2",

@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Dam",
-    "path": "folders/Objects/Button/Dam.yy",
+    "path": "folders/Objects/Dam.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Button_Interaction_Boundry_A2",
