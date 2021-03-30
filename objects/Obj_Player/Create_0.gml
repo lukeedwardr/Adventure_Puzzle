@@ -5,7 +5,10 @@ playerCanMove = true;
 previous_sprite_index = Spr_Player_Front_Walking;
 
 // Is used in ReadSignPost() function to toogle on and off the text box.
-textBoxActive = false;
+wellSignTextBoxActive = false;
+
+// Used in ReadHouseNote() to toggle on and off the text box
+houseNoteTextBoxActive = false;
 
 // Is used in DamConsoleInput() function to show a console window 
 // which will then show numbers input from the keyborad

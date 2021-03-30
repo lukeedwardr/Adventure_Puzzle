@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Button",
-    "path": "folders/Objects/Button.yy",
+    "name": "Rail Cart C2",
+    "path": "folders/Objects/Button/Rail Cart C2.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Button_Interaction_Boundry_C2",

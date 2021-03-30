@@ -7,10 +7,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button_Interaction_Boundry",
-    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dam",
-    "path": "folders/Objects/Button/Dam.yy",
+    "name": "Button",
+    "path": "folders/Objects/Button.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_A2",
+  "name": "Obj_Button_Interaction_Boundry",
   "tags": [],
   "resourceType": "GMObject",
 }

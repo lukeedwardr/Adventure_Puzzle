@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dam",
-    "path": "folders/Objects/Button/Dam.yy",
+    "name": "House Note",
+    "path": "folders/Objects/Button/House Note.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Button_Interaction_Boundry_A2",
+  "name": "Obj_Note_Interaction_Boundry_C1",
   "tags": [],
   "resourceType": "GMObject",
 }
