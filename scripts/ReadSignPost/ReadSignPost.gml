@@ -21,7 +21,3 @@ function ReadSignPost(){
 		}
 	}
 }
-
-// Something to think about if there are multiple readable objects in the room.
-// Get the position of the specific object instance ->
-// Then use a CASE function to pull in the corrisponding text for that instance.
