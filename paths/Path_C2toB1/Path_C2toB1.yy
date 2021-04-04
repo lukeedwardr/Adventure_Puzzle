@@ -13,7 +13,7 @@
     "path": "folders/Paths.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Path_RailCart_C2toB1",
+  "name": "Path_C2toB1",
   "tags": [],
   "resourceType": "GMPath",
 }

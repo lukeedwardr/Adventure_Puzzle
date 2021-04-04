@@ -22,7 +22,7 @@ function ButtonSpriteReset(){
 		if(path_index = 0 && (path_position >= 0.98 && path_position <= 1)){
 			Obj_Switch_Button_C2.sprite_index = Spr_Button_Up;
 		}
-		else if(path_index = 2 && path_position = 1){
+		else if(path_index = 2 && (path_position >= 0.98 && path_position <= 1)){
 			Obj_RailCart_Button_A1.sprite_index = Spr_Button_Up;
 		}
 	}
