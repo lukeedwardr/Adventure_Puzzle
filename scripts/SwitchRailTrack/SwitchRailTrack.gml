@@ -1,7 +1,11 @@
 /*
 	Will toogle which path the rail cart will take when activated.
-	IF false THEN possible paths are (C2 to B1 OR B1 to C2) OR (A1 to B1 OR B1 to A1)
-	IF true THEN possible path 
+	IF false THEN possible paths are C2 to B1 OR B1 to C2
+	IF true THEN possible path are C2 to A1 OR A1 to C2
+	
+	Think about... If at A1 and swtich is inactive, will the rail cart move to B2 or not move?
+	Think about... Possibly do not allow direct path beween A1 to B1 and B1 to A1
+	
 */
 function SwitchRailTrack(){
 	if (instance_exists(Obj_RailCart_Track_Switch_Interaction_Boundry)){
