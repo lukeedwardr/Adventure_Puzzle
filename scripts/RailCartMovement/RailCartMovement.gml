@@ -4,9 +4,9 @@
 */
 function RailCartMovement(){
 	
-	if(!Obj_RailCart_Track_Switch.switchPathToBattery){
-	
-		// IF the rail cart is at C2 (Origin point) AND the C2 button is pressed AND the track switch is inactive
+	// IF the track switch is inactive
+	if(Obj_RailCart_Track_Switch.switchPathToBattery == false){
+		// IF the rail cart is at C2 (Origin point) AND the C2 button is pressed
 		// THEN the rail cart will move to B1
 		if(Obj_Switch_Button_C2.sprite_index = Spr_Button_Down && (Obj_RailCart.x = 926 && Obj_RailCart.y = 612)){
 			path_start(Path_RailCart_C2toB1, 1, path_action_stop, 1);
@@ -20,8 +20,9 @@ function RailCartMovement(){
 	
 	}
 	
-	else if(Obj_RailCart_Track_Switch.switchPathToBattery){
-		// IF the rail cart is at C2 (Origin point) AND the C2 button is pressed AND the track switch is active
+	// IF the track switch is active
+	else if(Obj_RailCart_Track_Switch.switchPathToBattery == true){
+		// IF the rail cart is at C2 (Origin point) AND the C2 button is pressed
 		// THEN the rail cart will move to A1
 		if(Obj_Switch_Button_C2.sprite_index = Spr_Button_Down && (Obj_RailCart.x = 926 && Obj_RailCart.y = 612)){
 			path_start(Path_TEST, 1, path_action_stop, 1);

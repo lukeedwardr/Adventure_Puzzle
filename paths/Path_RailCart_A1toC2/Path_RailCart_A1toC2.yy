@@ -1,7 +1,7 @@
 {
   "kind": 0,
   "closed": false,
-  "precision": 1,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":296.0,"y":80.0,},
     {"speed":100.0,"x":296.0,"y":504.0,},
