@@ -23,6 +23,7 @@
     {"id":{"name":"Obj_Alarm_DamConsoleInput","path":"objects/Obj_Alarm_DamConsoleInput/Obj_Alarm_DamConsoleInput.yy",},"order":4,},
     {"id":{"name":"Spr_Well","path":"sprites/Spr_Well/Spr_Well.yy",},"order":5,},
     {"id":{"name":"Spr_Player_Front_Idle","path":"sprites/Spr_Player_Front_Idle/Spr_Player_Front_Idle.yy",},"order":0,},
+    {"id":{"name":"SwitchRailTrack","path":"scripts/SwitchRailTrack/SwitchRailTrack.yy",},"order":3,},
     {"id":{"name":"Spr_Button_Interaction_Boundry","path":"sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",},"order":3,},
     {"id":{"name":"Spr_Wire_Straight","path":"sprites/Spr_Wire_Straight/Spr_Wire_Straight.yy",},"order":1,},
     {"id":{"name":"Obj_SignPost_Boundry","path":"objects/Obj_SignPost_Boundry/Obj_SignPost_Boundry.yy",},"order":1,},

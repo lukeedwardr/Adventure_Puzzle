@@ -4,8 +4,12 @@ if(playerCanMove){
 	PlayerMovement();
 }
 
+// Player interacts with the Well sign or House note clues
 ReadHouseNote();
 ReadSignPost();
+
+// Player interacts with the rail track path switch
+SwitchRailTrack();
 
 // When correct values are entered Dam will be active and function call will stop
 if(firstValue != correctFirstValue && secondValue != correctSecondValue){
