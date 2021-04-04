@@ -9,7 +9,14 @@ ReadHouseNote();
 ReadSignPost();
 
 // Player interacts with the rail track path switch
-SwitchRailTrack();
+// Only available when then rail cart is not moving
+if ((Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCart.yPositionAtA1) ||
+	(Obj_RailCart.x = Obj_RailCart.xPositionAtB1 && Obj_RailCart.y = Obj_RailCart.yPositionAtB1) ||
+	(Obj_RailCart.x = Obj_RailCart.xPositionAtC2 && Obj_RailCart.y = Obj_RailCart.yPositionAtC2)) {
+	SwitchRailTrack();
+}
+
+
 
 // When correct values are entered Dam will be active and function call will stop
 if(firstValue != correctFirstValue && secondValue != correctSecondValue){

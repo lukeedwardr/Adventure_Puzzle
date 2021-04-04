@@ -48,6 +48,7 @@
     {"id":{"name":"ReadHouseNote","path":"scripts/ReadHouseNote/ReadHouseNote.yy",},"order":5,},
     {"id":{"name":"DamConsoleInput","path":"scripts/DamConsoleInput/DamConsoleInput.yy",},"order":1,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
+    {"id":{"name":"Spr_RailTrack_Switch_Active","path":"sprites/Spr_RailTrack_Switch_Active/Spr_RailTrack_Switch_Active.yy",},"order":4,},
     {"id":{"name":"Path_B1toC2","path":"paths/Path_B1toC2/Path_B1toC2.yy",},"order":1,},
     {"id":{"name":"Obj_Button_Interaction_Boundry_A2","path":"objects/Obj_Button_Interaction_Boundry_A2/Obj_Button_Interaction_Boundry_A2.yy",},"order":0,},
     {"id":{"name":"Path_A1toC2","path":"paths/Path_A1toC2/Path_A1toC2.yy",},"order":5,},

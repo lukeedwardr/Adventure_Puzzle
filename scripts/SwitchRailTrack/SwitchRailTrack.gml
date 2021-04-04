@@ -7,15 +7,15 @@ function SwitchRailTrack(){
 	if (instance_exists(Obj_RailCart_Track_Switch_Interaction_Boundry)){
 		// IF the player is in collision with the signpost object AND 'E' is pressed AND text box is inactive
 		// THEN something will happen
-		if (place_meeting(x, y, Obj_RailCart_Track_Switch_Interaction_Boundry) && actionButton && switchPathToBattery == false){
-			switchPathToBattery = true;
-			Obj_RailCart_Track_Switch.sprite_index.direction = -90;
+		if (place_meeting(x, y, Obj_RailCart_Track_Switch_Interaction_Boundry) && actionButton && Obj_RailCart_Track_Switch.switchPathToBattery = false){
+			Obj_RailCart_Track_Switch.switchPathToBattery = true;
+			Obj_RailCart_Track_Switch.sprite_index = Spr_RailTrack_Switch_Active;
 		}
 		// IF the player is in collision with the signpost object AND 'E' is pressed
 		// THEN something will happen
-		else if ((place_meeting(x, y, Obj_RailCart_Track_Switch_Interaction_Boundry) && actionButton && switchPathToBattery)){
-			switchPathToBattery = false;
-			Obj_RailCart_Track_Switch.sprite_index.direction = 90;
+		else if ((place_meeting(x, y, Obj_RailCart_Track_Switch_Interaction_Boundry) && actionButton && Obj_RailCart_Track_Switch.switchPathToBattery)){
+			Obj_RailCart_Track_Switch.switchPathToBattery = false;
+			Obj_RailCart_Track_Switch.sprite_index = Spr_RailTrack_Switch;
 		}
 	}
 }
