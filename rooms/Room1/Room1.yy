@@ -136,6 +136,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.0,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":279.0,"y":18.0,"resourceVersion":"1.0","name":"inst_251FCA09","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":270.0,"y":27.0,"resourceVersion":"1.0","name":"inst_77E5E8ED","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":99.0,"y":27.0,"resourceVersion":"1.0","name":"inst_23FE00C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_WellBlock","path":"objects/Obj_WellBlock/Obj_WellBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":261.0,"y":45.0,"resourceVersion":"1.0","name":"inst_2B162BC9","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":900,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":9,"gridY":9,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_A1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"visible":true,"depth":1000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":18,"gridY":18,"layers":[
         {"assets":[
@@ -440,6 +441,7 @@
     {"name":"inst_251FCA09","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_77E5E8ED","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_23FE00C","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2B162BC9","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

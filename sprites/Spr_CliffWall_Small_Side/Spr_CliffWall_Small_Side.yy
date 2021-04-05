@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"73db2ee7-2fa9-465d-a96a-af14572cbc49","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "AdventurePuzzle",
-    "path": "AdventurePuzzle.yyp",
+    "name": "Small",
+    "path": "folders/Sprites/Cliff/Small.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_CliffWall_Small_Side",
