@@ -19,6 +19,10 @@ if ((Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCar
 if(Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCart.yPositionAtA1){
 	AttachWellBlockerToRailCart();
 }
+else if((Obj_RailCart.x = Obj_RailCart.xPositionAtB1 && Obj_RailCart.y = Obj_RailCart.yPositionAtB1) &&
+		Obj_RailCart.sprite_index = Spr_RailCart_WellBlocker_Attach){
+		DropBlockOnWell();
+}
 
 
 // When correct values are entered Dam will be active and function call will stop
