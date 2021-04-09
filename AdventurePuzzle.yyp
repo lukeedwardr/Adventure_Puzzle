@@ -79,7 +79,7 @@
     {"id":{"name":"Spr_CliffWall_Small_Front","path":"sprites/Spr_CliffWall_Small_Front/Spr_CliffWall_Small_Front.yy",},"order":1,},
     {"id":{"name":"Obj_Button","path":"objects/Obj_Button/Obj_Button.yy",},"order":0,},
     {"id":{"name":"Obj_SignPost","path":"objects/Obj_SignPost/Obj_SignPost.yy",},"order":0,},
-    {"id":{"name":"Spr_Water","path":"sprites/Spr_Water/Spr_Water.yy",},"order":6,},
+    {"id":{"name":"Spr_Water","path":"sprites/Spr_Water/Spr_Water.yy",},"order":0,},
     {"id":{"name":"Spr_CliffWall_Small_Side","path":"sprites/Spr_CliffWall_Small_Side/Spr_CliffWall_Small_Side.yy",},"order":2,},
     {"id":{"name":"Spr_Rock_Geometric_Top","path":"sprites/Spr_Rock_Geometric_Top/Spr_Rock_Geometric_Top.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Test","path":"sprites/Spr_Player_Test/Spr_Player_Test.yy",},"order":9,},
