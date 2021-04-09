@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4ccca984-3d97-4eff-8aa7-98dea150f9d0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Well",
+    "path": "folders/Sprites/Well.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Well_Covered",
