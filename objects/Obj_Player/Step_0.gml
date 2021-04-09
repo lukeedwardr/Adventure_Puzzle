@@ -16,6 +16,9 @@ if ((Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCar
 	SwitchRailTrack();
 }
 
+if(Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCart.yPositionAtA1){
+	AttachWellBlockerToRailCart();
+}
 
 
 // When correct values are entered Dam will be active and function call will stop

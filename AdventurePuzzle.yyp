@@ -9,6 +9,7 @@
     {"id":{"name":"Obj_Button_Interaction_Boundry_A1","path":"objects/Obj_Button_Interaction_Boundry_A1/Obj_Button_Interaction_Boundry_A1.yy",},"order":0,},
     {"id":{"name":"Path_C2toA1","path":"paths/Path_C2toA1/Path_C2toA1.yy",},"order":4,},
     {"id":{"name":"BatteryActivation","path":"scripts/BatteryActivation/BatteryActivation.yy",},"order":0,},
+    {"id":{"name":"AttachWellBlockerToRailCart","path":"scripts/AttachWellBlockerToRailCart/AttachWellBlockerToRailCart.yy",},"order":4,},
     {"id":{"name":"Obj_RailCart_Track_Switch","path":"objects/Obj_RailCart_Track_Switch/Obj_RailCart_Track_Switch.yy",},"order":3,},
     {"id":{"name":"Spr_RailTrack_Switch","path":"sprites/Spr_RailTrack_Switch/Spr_RailTrack_Switch.yy",},"order":3,},
     {"id":{"name":"Spr_Player_Back_Idle","path":"sprites/Spr_Player_Back_Idle/Spr_Player_Back_Idle.yy",},"order":6,},
@@ -64,6 +65,7 @@
     {"id":{"name":"PlayerSetIdleSprite","path":"scripts/PlayerSetIdleSprite/PlayerSetIdleSprite.yy",},"order":2,},
     {"id":{"name":"Spr_Active_Test","path":"sprites/Spr_Active_Test/Spr_Active_Test.yy",},"order":0,},
     {"id":{"name":"Obj_CollisionBlock","path":"objects/Obj_CollisionBlock/Obj_CollisionBlock.yy",},"order":1,},
+    {"id":{"name":"Spr_RailCart_WellBlocker_Attach","path":"sprites/Spr_RailCart_WellBlocker_Attach/Spr_RailCart_WellBlocker_Attach.yy",},"order":5,},
     {"id":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"order":4,},
     {"id":{"name":"Obj_Button_Interaction_Boundry_B1","path":"objects/Obj_Button_Interaction_Boundry_B1/Obj_Button_Interaction_Boundry_B1.yy",},"order":0,},
     {"id":{"name":"RailCartMovement","path":"scripts/RailCartMovement/RailCartMovement.yy",},"order":1,},
@@ -77,6 +79,7 @@
     {"id":{"name":"Spr_Player_LeftSide_Idle","path":"sprites/Spr_Player_LeftSide_Idle/Spr_Player_LeftSide_Idle.yy",},"order":2,},
     {"id":{"name":"Spr_Path_Straight","path":"sprites/Spr_Path_Straight/Spr_Path_Straight.yy",},"order":2,},
     {"id":{"name":"Obj_Note_Interaction_Boundry_C1","path":"objects/Obj_Note_Interaction_Boundry_C1/Obj_Note_Interaction_Boundry_C1.yy",},"order":0,},
+    {"id":{"name":"Obj_WellBlock_Interaction_Boundry","path":"objects/Obj_WellBlock_Interaction_Boundry/Obj_WellBlock_Interaction_Boundry.yy",},"order":11,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
