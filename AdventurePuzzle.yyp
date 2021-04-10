@@ -90,6 +90,7 @@
     {"id":{"name":"Spr_Path_Straight","path":"sprites/Spr_Path_Straight/Spr_Path_Straight.yy",},"order":2,},
     {"id":{"name":"Obj_Note_Interaction_Boundry_C1","path":"objects/Obj_Note_Interaction_Boundry_C1/Obj_Note_Interaction_Boundry_C1.yy",},"order":0,},
     {"id":{"name":"Obj_WellBlock_Interaction_Boundry","path":"objects/Obj_WellBlock_Interaction_Boundry/Obj_WellBlock_Interaction_Boundry.yy",},"order":11,},
+    {"id":{"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -150,6 +151,7 @@
     {"folderPath":"folders/Sprites/Cliff/Small.yy","order":3,"resourceVersion":"1.0","name":"Small","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Well.yy","order":9,"resourceVersion":"1.0","name":"Well","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Water.yy","order":10,"resourceVersion":"1.0","name":"Water","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Grass.yy","order":11,"resourceVersion":"1.0","name":"Grass","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
