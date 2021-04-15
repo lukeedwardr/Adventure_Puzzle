@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Small",
-    "path": "folders/Sprites/Cliff/Small.yy",
+    "path": "folders/Sprites/Rocks/Cliff/Small.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_CliffWall_Small_Side",

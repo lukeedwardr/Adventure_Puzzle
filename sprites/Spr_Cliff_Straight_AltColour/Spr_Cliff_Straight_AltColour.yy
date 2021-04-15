@@ -24,12 +24,12 @@
   "gridX": 4,
   "gridY": 4,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},"LayerId":{"name":"29685fe4-35dc-4863-9634-7500d45b4cbb","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_Cliff_Corner","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},"resourceVersion":"1.0","name":"179f94d4-e4c4-4e85-830e-df874ea1d858","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},"LayerId":{"name":"29685fe4-35dc-4863-9634-7500d45b4cbb","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Cliff_Straight_AltColour","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},"resourceVersion":"1.0","name":"179f94d4-e4c4-4e85-830e-df874ea1d858","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Spr_Cliff_Corner","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},
+    "spriteId": {"name":"Spr_Cliff_Straight_AltColour","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"33c62065-2177-4f27-80c7-3fb266809320","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"14d6b91b-394e-47cf-85aa-ae1eff82b4d3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"179f94d4-e4c4-4e85-830e-df874ea1d858","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Spr_Cliff_Corner","path":"sprites/Spr_Cliff_Corner/Spr_Cliff_Corner.yy",},
+    "parent": {"name":"Spr_Cliff_Straight_AltColour","path":"sprites/Spr_Cliff_Straight_AltColour/Spr_Cliff_Straight_AltColour.yy",},
     "resourceVersion": "1.3",
-    "name": "Spr_Cliff_Corner",
+    "name": "Spr_Cliff_Straight_AltColour",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -69,10 +69,10 @@
   ],
   "parent": {
     "name": "Cliff",
-    "path": "folders/Sprites/Cliff.yy",
+    "path": "folders/Sprites/Rocks/Cliff.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Spr_Cliff_Corner",
+  "name": "Spr_Cliff_Straight_AltColour",
   "tags": [],
   "resourceType": "GMSprite",
 }
