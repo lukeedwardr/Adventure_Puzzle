@@ -21,15 +21,15 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 2,
+  "gridY": 2,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass/Spr_Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass/Spr_Grass.yy",},"LayerId":{"name":"c51bfd69-c203-445f-8259-490dbd60f57d","path":"sprites/Spr_Grass/Spr_Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},"resourceVersion":"1.0","name":"4c88d1ca-1317-44bd-849a-761dd8979d36","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},"LayerId":{"name":"c51bfd69-c203-445f-8259-490dbd60f57d","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Grass_Flower01","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},"resourceVersion":"1.0","name":"4c88d1ca-1317-44bd-849a-761dd8979d36","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},
+    "spriteId": {"name":"Spr_Grass_Flower01","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a9ed717f-6094-4ba8-8c9f-5cd1e177c537","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass/Spr_Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a9ed717f-6094-4ba8-8c9f-5cd1e177c537","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c88d1ca-1317-44bd-849a-761dd8979d36","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},
+    "parent": {"name":"Spr_Grass_Flower01","path":"sprites/Spr_Grass_Flower01/Spr_Grass_Flower01.yy",},
     "resourceVersion": "1.3",
-    "name": "Spr_Grass",
+    "name": "Spr_Grass_Flower01",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/Grass.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Spr_Grass",
+  "name": "Spr_Grass_Flower01",
   "tags": [],
   "resourceType": "GMSprite",
 }
