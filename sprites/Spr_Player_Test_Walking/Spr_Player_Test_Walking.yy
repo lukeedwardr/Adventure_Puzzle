@@ -35,7 +35,7 @@
     "spriteId": {"name":"Spr_Player_Test_Walking","path":"sprites/Spr_Player_Test_Walking/Spr_Player_Test_Walking.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 4.0,
+    "playbackSpeed": 3.5,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
