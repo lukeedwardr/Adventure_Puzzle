@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"505faf88-52a7-4b94-9a3b-278638ef6c43","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Rocks",
-    "path": "folders/Sprites/Rocks.yy",
+    "name": "Geometric Rock",
+    "path": "folders/Sprites/Rocks/Geometric Rock.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Rock_Geometric_Top",
