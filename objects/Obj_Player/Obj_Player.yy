@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_Player_Front_Idle",
+    "path": "sprites/Spr_Player_Front_Idle/Spr_Player_Front_Idle.yy",
+  },
   "solid": true,
   "visible": true,
   "spriteMaskId": null,
