@@ -14,10 +14,8 @@ function PlayerMovement(){
 			Obj_Player.y = Obj_Player.y - movementSpeed;
 		}
 		else if(down && !up){
-			// TEST
-			sprite_index = Spr_Player_Test_Walking;
-			previous_sprite_index = Spr_Player_Test_Walking;
-			// ENDTEST
+			sprite_index = Spr_Player_Front_Walking;
+			previous_sprite_index = Spr_Player_Front_Walking;
 			Obj_Player.y = Obj_Player.y + movementSpeed;
 		}
 		// Left and Right Movement

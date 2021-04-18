@@ -8,11 +8,9 @@ function PlayerSetIdleSprite(){
 		if(previous_sprite_index == Spr_Player_Back_Walking){
 			sprite_index = Spr_Player_Back_Idle;
 		}
-		//TEST
-		else if(previous_sprite_index == Spr_Player_Test_Walking){
-			sprite_index = Spr_Player_Test;
+		else if(previous_sprite_index == Spr_Player_Front_Walking){
+			sprite_index = Spr_Player_Front_Idle;
 		}
-		//END TEST
 		else if(previous_sprite_index == Spr_Player_LeftSide_Walking){
 			sprite_index = Spr_Player_LeftSide_Idle;
 		}
