@@ -81,6 +81,7 @@
     {"id":{"name":"DropBlockOnWell","path":"scripts/DropBlockOnWell/DropBlockOnWell.yy",},"order":5,},
     {"id":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"order":4,},
     {"id":{"name":"Spr_Cliff_Corner_Back","path":"sprites/Spr_Cliff_Corner_Back/Spr_Cliff_Corner_Back.yy",},"order":5,},
+    {"id":{"name":"Spr_Cliff_Edge_Corner","path":"sprites/Spr_Cliff_Edge_Corner/Spr_Cliff_Edge_Corner.yy",},"order":10,},
     {"id":{"name":"Obj_Button_Interaction_Boundry_B1","path":"objects/Obj_Button_Interaction_Boundry_B1/Obj_Button_Interaction_Boundry_B1.yy",},"order":0,},
     {"id":{"name":"RailCartMovement","path":"scripts/RailCartMovement/RailCartMovement.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Test_Walking","path":"sprites/Spr_Player_Test_Walking/Spr_Player_Test_Walking.yy",},"order":8,},
