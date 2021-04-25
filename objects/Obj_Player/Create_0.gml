@@ -18,6 +18,16 @@ damConsoleActive = false;
 // Used in DamConsoleInput() function
 firstValue = 0;
 secondValue = 0;
+thirdValue = 0;
+fourthValue = 0;
+
 // Correct values that will activation Dam
-correctFirstValue = 1;
-correctSecondValue = 1;
+
+// Number of Geometic Rocks
+correctFirstValue = 7;
+// Number of Red Flowers
+correctSecondValue = 6;
+// Number of bends in the river
+correctThirdValue = 3;
+// Number of frog statues in the lake
+correctFourthValue = 4;

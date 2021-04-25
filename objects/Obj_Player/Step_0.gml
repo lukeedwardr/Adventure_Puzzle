@@ -26,12 +26,13 @@ else if((Obj_RailCart.x = Obj_RailCart.xPositionAtB1 && Obj_RailCart.y = Obj_Rai
 
 
 // When correct values are entered Dam will be active and function call will stop
-if(firstValue != correctFirstValue && secondValue != correctSecondValue){
+if (firstValue != correctFirstValue && secondValue != correctSecondValue &&
+	thirdValue != correctThirdValue && fourthValue != correctFourthValue){
 	DamActivation();
 }
 
-// Will show text box will number values
-// Numbers are entered, if correct values entered
+// Will show text box with number values
+// Numbers are entered, IF correct values entered
 // Then Dam will be active
 if(damConsoleActive){
 	DamConsoleInput();

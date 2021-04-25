@@ -28,7 +28,8 @@ function DamConsoleInput(){
 		// Clears keyboard state so value is not used in Second value
 		//io_clear();
 	}
-	// If the second value has been entered then another input will not be taken
+	// IF previous value have been entered
+	// THEN enter 2nd value
 	else if(firstValue != 0 && secondValue = 0){
 		if(one){secondValue = 1;}
 		else if(two){secondValue = 2;}
@@ -40,7 +41,34 @@ function DamConsoleInput(){
 		else if(eight){secondValue = 8;}
 		else if(nine){secondValue = 9;}
 	}
-	if(firstValue != 0 && secondValue != 0){
+	// IF previous 2 values have been entered
+	// THEN enter 3rd value
+	else if(firstValue != 0 && secondValue != 0 && thirdValue = 0){
+		if(one){thirdValue = 1;}
+		else if(two){thirdValue = 2;}
+		else if(three){thirdValue = 3;}
+		else if(four){thirdValue = 4;}
+		else if(five){thirdValue = 5;}
+		else if(six){thirdValue = 6;}
+		else if(seven){thirdValue = 7;}
+		else if(eight){thirdValue = 8;}
+		else if(nine){thirdValue = 9;}
+	}
+	// IF previous 3 values have been entered
+	// THEN enter 4th value
+	else if(firstValue != 0 && secondValue != 0 && thirdValue != 0 && fourthValue = 0){
+		if(one){fourthValue = 1;}
+		else if(two){fourthValue = 2;}
+		else if(three){fourthValue = 3;}
+		else if(four){fourthValue = 4;}
+		else if(five){fourthValue = 5;}
+		else if(six){fourthValue = 6;}
+		else if(seven){fourthValue = 7;}
+		else if(eight){fourthValue = 8;}
+		else if(nine){fourthValue = 9;}
+	}
+	
+	if(firstValue != 0 && secondValue != 0 && thirdValue != 0 && fourthValue != 0){
 		// If the correct values are entered then the dam will be active.
 		// This will allow the battery to be used.
 		// After values are entered then the console view will disapear.

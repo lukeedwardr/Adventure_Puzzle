@@ -18,5 +18,7 @@ if(houseNoteTextBoxActive){
 if(damConsoleActive){
 	draw_rectangle_color(5,250,320,300,c_black,c_black,c_black,c_black,false)
 	draw_text_color(5,250, firstValue, 255, 255, 255, 255, 100);
-	draw_text_color(15,250, secondValue, 255, 255, 255, 255, 100);
+	draw_text_color(25,250, secondValue, 255, 255, 255, 255, 100);
+	draw_text_color(45,250, thirdValue, 255, 255, 255, 255, 100);
+	draw_text_color(65,250, fourthValue, 255, 255, 255, 255, 100);
 }
