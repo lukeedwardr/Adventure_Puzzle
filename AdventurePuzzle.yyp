@@ -23,6 +23,7 @@
     {"id":{"name":"Obj_WellBlock","path":"objects/Obj_WellBlock/Obj_WellBlock.yy",},"order":10,},
     {"id":{"name":"Spr_Rock_Geometric_Bottom","path":"sprites/Spr_Rock_Geometric_Bottom/Spr_Rock_Geometric_Bottom.yy",},"order":0,},
     {"id":{"name":"DamConsoleInputResetValues","path":"scripts/DamConsoleInputResetValues/DamConsoleInputResetValues.yy",},"order":2,},
+    {"id":{"name":"Spr_BlackVoid","path":"sprites/Spr_BlackVoid/Spr_BlackVoid.yy",},"order":14,},
     {"id":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"order":2,},
     {"id":{"name":"Spr_RailTrack_Corner","path":"sprites/Spr_RailTrack_Corner/Spr_RailTrack_Corner.yy",},"order":0,},
     {"id":{"name":"Spr_Player_Back_Walking","path":"sprites/Spr_Player_Back_Walking/Spr_Player_Back_Walking.yy",},"order":7,},
