@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Interactable",
-    "path": "folders/Sprites/Interactable.yy",
+    "path": "folders/Sprites/Man Made/Interactable.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_CollisionBlock",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"54916eab-36ca-4c93-9b8d-8672496c0a43","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Lake Statue",
+    "path": "folders/Sprites/Man Made/Lake Statue.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_LakePillar_Top",

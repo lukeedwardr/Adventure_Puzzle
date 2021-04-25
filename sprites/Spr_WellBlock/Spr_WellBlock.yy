@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Well",
-    "path": "folders/Sprites/Well.yy",
+    "path": "folders/Sprites/Man Made/Well.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_WellBlock",

@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "House",
-    "path": "folders/Sprites/House.yy",
+    "path": "folders/Sprites/Man Made/House.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Note",

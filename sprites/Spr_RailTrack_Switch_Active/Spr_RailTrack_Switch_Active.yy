@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Rail Track",
-    "path": "folders/Sprites/Rail Track.yy",
+    "path": "folders/Sprites/Man Made/Rail Track.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_RailTrack_Switch_Active",
