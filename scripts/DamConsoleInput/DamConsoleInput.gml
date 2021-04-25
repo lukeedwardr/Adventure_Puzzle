@@ -73,6 +73,5 @@ function DamConsoleInput(){
 		// This will allow the battery to be used.
 		// After values are entered then the console view will disapear.
 		instance_create_layer(0,0, "Instances_Alarm", Obj_Alarm_DamConsoleInput);
-		//playerCanMove = true;
 	}
 }
