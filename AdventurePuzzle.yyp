@@ -4,6 +4,7 @@
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Button_Activation_Test","path":"objects/Obj_Button_Activation_Test/Obj_Button_Activation_Test.yy",},"order":1,},
     {"id":{"name":"Spr_Wire_Corner","path":"sprites/Spr_Wire_Corner/Spr_Wire_Corner.yy",},"order":0,},
+    {"id":{"name":"Spr_House","path":"sprites/Spr_House/Spr_House.yy",},"order":1,},
     {"id":{"name":"Obj_RailCart_Button_A1","path":"objects/Obj_RailCart_Button_A1/Obj_RailCart_Button_A1.yy",},"order":1,},
     {"id":{"name":"Spr_Path_Corner","path":"sprites/Spr_Path_Corner/Spr_Path_Corner.yy",},"order":0,},
     {"id":{"name":"Obj_Switch_Button_A1","path":"objects/Obj_Switch_Button_A1/Obj_Switch_Button_A1.yy",},"order":1,},
