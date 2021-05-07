@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Interaction_Boundry",
-    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+    "name": "Spr_Interaction_Prompt",
+    "path": "sprites/Spr_Interaction_Prompt/Spr_Interaction_Prompt.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_Button_Interaction_Boundry",
-    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"Obj_Interaction_Prompt","path":"objects/Obj_Interaction_Prompt/Obj_Interaction_Prompt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_WellBlockDrop_Interaction_Boundry",
+  "name": "Obj_Interaction_Prompt",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Button_Interaction_Boundry",
+    "path": "objects/Obj_Button_Interaction_Boundry/Obj_Button_Interaction_Boundry.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

@@ -19,6 +19,7 @@
             {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Game","path":"objects/Obj_Game/Obj_Game.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_FE84F48","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":954.0,"y":234.0,"resourceVersion":"1.0","name":"inst_315435C0","tags":[],"resourceType":"GMRInstance",},
             {"properties":[],"isDnd":false,"objectId":{"name":"Obj_RailCart","path":"objects/Obj_RailCart/Obj_RailCart.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":926.0,"y":612.0,"resourceVersion":"1.0","name":"inst_55C5CDE5","tags":[],"resourceType":"GMRInstance",},
+            {"properties":[],"isDnd":false,"objectId":{"name":"Obj_Interaction_Prompt","path":"objects/Obj_Interaction_Prompt/Obj_Interaction_Prompt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":18.0,"y":0.0,"resourceVersion":"1.0","name":"inst_1EC0E873","tags":[],"resourceType":"GMRInstance",},
           ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":18,"gridY":18,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_Global","tags":[],"resourceType":"GMRInstanceLayer",},
       ],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Global","tags":[],"resourceType":"GMRLayer",},
     {"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":18,"gridY":18,"layers":[
@@ -1004,6 +1005,7 @@
     {"name":"inst_7B45C990","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_48EA5341","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2410D483","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1EC0E873","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

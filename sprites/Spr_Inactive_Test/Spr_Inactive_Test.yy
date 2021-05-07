@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Switch Button",
-    "path": "folders/Sprites/Man Made/Interactable/Switch Button.yy",
+    "path": "folders/Sprites/Interactable/Switch Button.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_Inactive_Test",
