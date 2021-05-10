@@ -69,6 +69,7 @@
     {"id":{"name":"InteractPrompt","path":"scripts/InteractPrompt/InteractPrompt.yy",},"order":5,},
     {"id":{"name":"Spr_Cliff_Edge_EndPoint_Into_BackCorner","path":"sprites/Spr_Cliff_Edge_EndPoint_Into_BackCorner/Spr_Cliff_Edge_EndPoint_Into_BackCorner.yy",},"order":11,},
     {"id":{"name":"Spr_Inactive_Test","path":"sprites/Spr_Inactive_Test/Spr_Inactive_Test.yy",},"order":2,},
+    {"id":{"name":"Spr_Tree_05","path":"sprites/Spr_Tree_05/Spr_Tree_05.yy",},"order":4,},
     {"id":{"name":"Spr_LakePillar_Top","path":"sprites/Spr_LakePillar_Top/Spr_LakePillar_Top.yy",},"order":1,},
     {"id":{"name":"Spr_Cliff_Straight","path":"sprites/Spr_Cliff_Straight/Spr_Cliff_Straight.yy",},"order":4,},
     {"id":{"name":"Spr_RailTrack_Switch_Active","path":"sprites/Spr_RailTrack_Switch_Active/Spr_RailTrack_Switch_Active.yy",},"order":4,},
