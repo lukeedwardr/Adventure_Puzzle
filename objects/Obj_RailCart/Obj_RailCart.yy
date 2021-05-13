@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_RailCart_Dup",
-    "path": "sprites/Spr_RailCart_Dup/Spr_RailCart_Dup.yy",
+    "name": "Spr_RailCart_Front",
+    "path": "sprites/Spr_RailCart_Front/Spr_RailCart_Front.yy",
   },
   "solid": false,
   "visible": true,

@@ -88,7 +88,7 @@
     {"id":{"name":"Spr_Note","path":"sprites/Spr_Note/Spr_Note.yy",},"order":0,},
     {"id":{"name":"PlayerSetIdleSprite","path":"scripts/PlayerSetIdleSprite/PlayerSetIdleSprite.yy",},"order":2,},
     {"id":{"name":"Spr_Water_WaterFall_Bottom_02","path":"sprites/Spr_Water_WaterFall_Bottom_02/Spr_Water_WaterFall_Bottom_02.yy",},"order":7,},
-    {"id":{"name":"Spr_RailCart_Dup","path":"sprites/Spr_RailCart_Dup/Spr_RailCart_Dup.yy",},"order":6,},
+    {"id":{"name":"Spr_RailCart_Front","path":"sprites/Spr_RailCart_Front/Spr_RailCart_Front.yy",},"order":6,},
     {"id":{"name":"Spr_Tree_02","path":"sprites/Spr_Tree_02/Spr_Tree_02.yy",},"order":1,},
     {"id":{"name":"Spr_Path_CrossCorner","path":"sprites/Spr_Path_CrossCorner/Spr_Path_CrossCorner.yy",},"order":3,},
     {"id":{"name":"Obj_WellBlockDrop_Interaction_Boundry","path":"objects/Obj_WellBlockDrop_Interaction_Boundry/Obj_WellBlockDrop_Interaction_Boundry.yy",},"order":3,},
