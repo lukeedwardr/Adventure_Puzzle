@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "General",
+    "path": "folders/Objects/General.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Alarm_DamConsoleInput",
