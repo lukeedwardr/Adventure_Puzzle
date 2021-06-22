@@ -14,6 +14,7 @@
     {"id":{"name":"Path_C2toA1","path":"paths/Path_C2toA1/Path_C2toA1.yy",},"order":4,},
     {"id":{"name":"BatteryActivation","path":"scripts/BatteryActivation/BatteryActivation.yy",},"order":0,},
     {"id":{"name":"AttachWellBlockerToRailCart","path":"scripts/AttachWellBlockerToRailCart/AttachWellBlockerToRailCart.yy",},"order":4,},
+    {"id":{"name":"houseInteriorTransition","path":"scripts/houseInteriorTransition/houseInteriorTransition.yy",},"order":15,},
     {"id":{"name":"Obj_RailCart_Track_Switch","path":"objects/Obj_RailCart_Track_Switch/Obj_RailCart_Track_Switch.yy",},"order":3,},
     {"id":{"name":"Spr_RailTrack_Switch","path":"sprites/Spr_RailTrack_Switch/Spr_RailTrack_Switch.yy",},"order":3,},
     {"id":{"name":"Spr_Player_Back_Idle","path":"sprites/Spr_Player_Back_Idle/Spr_Player_Back_Idle.yy",},"order":6,},

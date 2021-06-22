@@ -8,6 +8,9 @@ if(playerCanMove){
 ReadHouseNote();
 ReadSignPost();
 
+// Will enable player transitioning inside house and outside
+houseInteriorTransition()
+
 // Player interacts with the rail track path switch
 // Only available when then rail cart is not moving
 if ((Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCart.yPositionAtA1) ||
