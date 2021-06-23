@@ -9,7 +9,7 @@ ReadHouseNote();
 ReadSignPost();
 
 // Will enable player transitioning inside house and outside
-houseInteriorTransition()
+houseInteriorTransition();
 
 // Player interacts with the rail track path switch
 // Only available when then rail cart is not moving
