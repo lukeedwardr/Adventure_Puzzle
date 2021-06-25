@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Interaction_Boundry",
-    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+    "name": "Spr_Note",
+    "path": "sprites/Spr_Note/Spr_Note.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_Button_Interaction_Boundry",
+    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "Obj_Button_Interaction_Boundry",
@@ -27,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "House Note",
-    "path": "folders/Objects/House Note.yy",
+    "name": "House",
+    "path": "folders/Objects/House.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Note_Interaction_Boundry_C1",

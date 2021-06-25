@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "House Note",
-    "path": "folders/Objects/House Note.yy",
+    "name": "House",
+    "path": "folders/Objects/House.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Exit_House_C1",

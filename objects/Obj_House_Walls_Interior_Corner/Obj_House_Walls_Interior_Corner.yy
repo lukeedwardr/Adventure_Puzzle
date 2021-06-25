@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Button_Interaction_Boundry",
-    "path": "sprites/Spr_Button_Interaction_Boundry/Spr_Button_Interaction_Boundry.yy",
+    "name": "Spr_House_Wall_Interior_Corner",
+    "path": "sprites/Spr_House_Wall_Interior_Corner/Spr_House_Wall_Interior_Corner.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/House.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Enter_House_C1",
+  "name": "Obj_House_Walls_Interior_Corner",
   "tags": [],
   "resourceType": "GMObject",
 }
