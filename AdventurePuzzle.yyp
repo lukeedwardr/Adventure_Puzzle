@@ -63,6 +63,7 @@
     {"id":{"name":"Spr_Player_Front_Walking","path":"sprites/Spr_Player_Front_Walking/Spr_Player_Front_Walking.yy",},"order":1,},
     {"id":{"name":"DamActivation","path":"scripts/DamActivation/DamActivation.yy",},"order":0,},
     {"id":{"name":"RailCartActivation","path":"scripts/RailCartActivation/RailCartActivation.yy",},"order":0,},
+    {"id":{"name":"Spr_Water_Sea_Test","path":"sprites/Spr_Water_Sea_Test/Spr_Water_Sea_Test.yy",},"order":8,},
     {"id":{"name":"Spr_Player_RightSide_Walking","path":"sprites/Spr_Player_RightSide_Walking/Spr_Player_RightSide_Walking.yy",},"order":5,},
     {"id":{"name":"Spr_Water_WaterFall_Mid","path":"sprites/Spr_Water_WaterFall_Mid/Spr_Water_WaterFall_Mid.yy",},"order":5,},
     {"id":{"name":"Spr_Water_WaterFall_Bottom_01","path":"sprites/Spr_Water_WaterFall_Bottom_01/Spr_Water_WaterFall_Bottom_01.yy",},"order":3,},
