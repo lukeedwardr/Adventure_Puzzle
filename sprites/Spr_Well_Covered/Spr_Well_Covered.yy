@@ -21,8 +21,8 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 9,
-  "gridY": 9,
+  "gridX": 4,
+  "gridY": 4,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"2313d964-5de2-45d2-851b-647782af96fd","path":"sprites/Spr_Well_Covered/Spr_Well_Covered.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"2313d964-5de2-45d2-851b-647782af96fd","path":"sprites/Spr_Well_Covered/Spr_Well_Covered.yy",},"LayerId":{"name":"4ccca984-3d97-4eff-8aa7-98dea150f9d0","path":"sprites/Spr_Well_Covered/Spr_Well_Covered.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},

@@ -9,8 +9,8 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 17,
-  "bbox_top": 0,
-  "bbox_bottom": 17,
+  "bbox_top": 2,
+  "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -21,8 +21,8 @@
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 2,
-  "gridY": 2,
+  "gridX": 6,
+  "gridY": 4,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"3845e5e4-1f4d-4f40-aaad-e7ba9c0a827b","path":"sprites/Spr_WellBlock/Spr_WellBlock.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"3845e5e4-1f4d-4f40-aaad-e7ba9c0a827b","path":"sprites/Spr_WellBlock/Spr_WellBlock.yy",},"LayerId":{"name":"6125bf40-81ec-4608-9070-f039b78bb7cb","path":"sprites/Spr_WellBlock/Spr_WellBlock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},

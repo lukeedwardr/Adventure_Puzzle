@@ -23,7 +23,7 @@ if(Obj_RailCart.x = Obj_RailCart.xPositionAtA1 && Obj_RailCart.y = Obj_RailCart.
 	AttachWellBlockerToRailCart();
 }
 else if((Obj_RailCart.x = Obj_RailCart.xPositionAtB1 && Obj_RailCart.y = Obj_RailCart.yPositionAtB1) &&
-		Obj_RailCart.sprite_index = Spr_RailCart_WellBlocker_Attach){
+		Obj_RailCart.sprite_index = Spr_RailCart_Front_Blocker_Attached){
 		DropBlockOnWell();
 }
 
